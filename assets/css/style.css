@@ -1,8 +1,22 @@
 body {
 	background-color: grey;
+	color: blue;
 }
 
 img {
 	max-height: 300px;
 
 }
+
+.panel-body {
+	color: #1ac6ff;
+}
+
+.panel-title {
+	color: #1ac6ff;
+}
+
+p {
+	color:red;
+}
+
